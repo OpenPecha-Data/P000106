@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ཟབ་མོ་ནང་གི་དོན་ཞེས་བྱ་བའི་གཞུང་དང་། དཔལ་ཀྱེ་རྡོ་རྗེ་ཞེས་བྱ་བའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དང་།
+    ཐེག་ཆེན་རྒྱུད་བླ་མའི་བསྟན་བཅོས། རྣམ་ཤེས་ཡེ་ཤེས་འབྱེད་པའི་བསྟན་བཅོས་དང་། དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ།
+  sku: VVI-004
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: A Collection of Important Root Texts:Gyu Lama, Zangmo Nangdon, Namshe Yeshe
+      Chepa and the Hevajra Tantra
+    bo: ནང་བརྟག་རྒྱུད་གསུམ།
+  collection:
+    en: Vajra Vidya Institute Library–  Book 4
+    bo: བཛྲ་བིདྱཱ་དཔེ་མཛོད་ཁང་།–  དེབ། ༤
+  author:
+    en: Third Karmapa Rangjung Dorje
+    bo: ཀརྨ་པ་སྐུ་ཕྲེང་གསུམ་པ་རང་བྱུང་རྡོ་རྗེ།
+  pusblisher:
+    en: Vajra Vidya Institute
+    bo: བཛྲ་བིདྱཱ་གཙུག་ལག་སློབ་གཉེར་ཁང་།
+  sku: VVI-004
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: VVI-004.epub
+  description:
+    en: ''
+    bo: ''
