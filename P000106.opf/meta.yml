@@ -1,16 +1,18 @@
-ebook_metadata:
+id: P000106
+initial_creation_type: ebook
+source_metadata:
   title: ཟབ་མོ་ནང་གི་དོན་ཞེས་བྱ་བའི་གཞུང་དང་། དཔལ་ཀྱེ་རྡོ་རྗེ་ཞེས་བྱ་བའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དང་།
     ཐེག་ཆེན་རྒྱུད་བླ་མའི་བསྟན་བཅོས། རྣམ་ཤེས་ཡེ་ཤེས་འབྱེད་པའི་བསྟན་བཅོས་དང་། དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀརྨ་པ་མི་བསྐྱོད་རྡོ་རྗེ།
-  sku: VVI-004
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: VVI-004
 web_metadata:
   title:
     en: A Collection of Important Root Texts:Gyu Lama, Zangmo Nangdon, Namshe Yeshe
